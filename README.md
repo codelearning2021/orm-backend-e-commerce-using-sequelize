@@ -41,7 +41,7 @@ node server.js
 ```
 
 ## Walkthrough Video
-
+https://github.com/codelearning2021/orm-backend-e-commerce-using-sequelize/blob/main/ORM%20Backend%20APPlication.mp4
 
 ## License 
 This project is licensed under MIT
